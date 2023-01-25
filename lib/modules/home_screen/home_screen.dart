@@ -109,4 +109,3 @@ class HomeScreen extends StatelessWidget {
     );
   }
 }
-//http://api.weatherapi.com/v1/current.json?key=<YOUR_API_KEY>&q=London

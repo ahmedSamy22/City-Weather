@@ -232,16 +232,3 @@ class WeatherModel {
 
 
 }
-
-
-
-//city : data['location']['Cairo']
-//country : data['location']['country']
-//localtime : data['location']['localtime']
-//temp : data['current']['temp_c']
-//last_updated : data['current']['last_updated']
-//condition : data['current']['condition']['text']
-//forecastday : data['forecast']['forecastday'][0]
-//maxtemp_c : data['forecast']['forecastday'][0]['maxtemp_c']
-//mintemp_c : data['forecast']['forecastday'][0]['mintemp_c']
-//dayCondition : data['forecast']['forecastday'][0]['condition']['text']
